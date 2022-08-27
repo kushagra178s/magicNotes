@@ -7,5 +7,10 @@ body {
     background-size: cover;
 }
 .card-body{
-    background-color:"pink";
+    font-family: "Karla", sans-serif;
+    margin: 0;
+    background-image: url("images/background.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
